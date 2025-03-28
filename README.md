@@ -1,0 +1,2 @@
+# GameSeek
+privacy-policy
